@@ -6,12 +6,18 @@ Se estás interessado em ajudar o projeto ***Streamamos*** a evoluir, estás no 
 
 ***(Para já, só estamos a aceitar a adição de legendas de filmes).***
 
+```
+```
+
 
 ## 🟢 Como começar a ajudar
 
 Para começares a ajudar a adicionar legendas terás de seguir alguns simples passos. É possível que, para iniciados, o GitHub seja difícil de compreender. No entanto, se seguires todos os passos da forma que iremos apresentar, não terás qualquer problema.
 
 **Caso não sejas iniciado e prefiras um tutorial mais simplificado, passa para o fim da página 🔸 *([clicando aqui](#---fazer-upload-de-legendas-vers%C3%A3o-simplificada))*.**
+
+```
+```
 
 #### - 🔷 Ganhar acesso ao repositório
 
@@ -26,6 +32,8 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 
 3.  Agora já tens acesso ao repositório *Streamamos-Subs*.
 
+```
+```
 
 #### - 🔶 Fazer upload de legendas
 
@@ -63,6 +71,9 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 
 9. Pronto, a legenda já está dentro do repositório e aparecerá no player do filme em alguns segundos sob o nome de "Português *". (Caso a legenda não esteja a aparecer, atualiza a página do filme e clica na *engrenagem (settings)* do player, depois *Subtitle* e clica na opção *Off*. Em princípio, a legenda que deste upload irá aparecer.)
 
+```
+``` 
+
 #### - 🔸 Fazer upload de legendas (versão simplificada)
 
 - Legenda em *Portuguese* não disponível no player? Se sim... ; 
@@ -86,6 +97,9 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 
 - Pronto, a legenda já está dentro do repositório e aparecerá no player do filme em alguns segundos sob o nome de "Português *".
 
+```
+```
+
 ⚪ Se escolheste ajudar (nem que seja apenas uma vez), agradecemos do fundo do coração. Se pretenderes continuar a fazer upload de legendas é só repetires os passos de 🔶 *[Fazer upload de legendas](#---fazer-upload-de-legendas)* ou 🔸 *[Fazer upload de legendas (versão simplificada)](#---fazer-upload-de-legendas-vers%C3%A3o-simplificada)*.
 
 🚩 Por fim, pedimos apenas que não alteres nem elimines legendas que foram colocadas por nós ou outros contribuintes. Caso encontres um erro ou uma legenda duplicada, cria um *[New Issue](https://github.com/streamamos/streamamos-subs/issues/new)* dentro da aba *[Issues](https://github.com/streamamos/streamamos-subs/issues)*, colocando na caixa de texto *Title* apenas "Erro - (escreve o erro em questão)".
@@ -93,4 +107,5 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 Obrigado! ❤️
 Equipa *Streamamos*.
 
+```
 ```
