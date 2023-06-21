@@ -68,8 +68,9 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 - Entra em *[OpenSubtitles](https://www.opensubtitles.com/pt-PT)* e procura pelo filme que escolheste;
 - Escolhe uma legenda em Português de Portugal (seguido pelos botões *DOWNLOAD* e *DESCARREGAR SRT*) ;
 - Abre a legenda transferida com o Bloco de Notas e clica em *Ficheiro* > *Guardar Como...*, alterando / confirmando que a codificação está em *UTF-8*;
-- Altera o nome da legenda para o ID do filme. Podes encontrar o ID nos últimos números do URL da página do filme no Streamamos (exemplo: *".../watch?id=movie/watch-fast-and-furious-10-8846"*, copia o número *8846*);
+- Altera o nome da legenda para o ID do filme. Podes encontrar o ID nos últimos números do URL da página do filme no *Streamamos* (exemplo: *".../watch?id=movie/watch-fast-and-furious-10-8846"*, copia o número *8846*);
 - Volta ao repositório do *[Streamamos-Subs](https://github.com/streamamos/streamamos-subs)* e clica na pasta *[Legendas-Subs](https://github.com/streamamos/streamamos-subs/tree/main/Legendas-Filmes)*;
+- No lado direito, clica no botão *Add File* e de seguida escolhe *[Upload Files](https://github.com/streamamos/streamamos-subs/upload/main/Legendas-Filmes)*;
 - Arrasta a legenda para dentro dessa página ou clica em *Choose Your Files* e procura pela mesma;
 - Na secção *Commit Changes*, dentro da caixa de texto *Add files via upload* escreve o título e ano do filme que escolheste (Podes copiar o título e o ano disponíveis nas informações do filme no *Streamamos*. Usa o título em inglês);
 - Clica no botão *Commit Changes*;
