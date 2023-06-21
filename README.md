@@ -10,7 +10,7 @@ Se estás interessado em ajudar o projeto ***Streamamos*** a evoluir, estás no 
 
 Para começares a ajudar a adicionar legendas terás de seguir alguns simples passos. É possível que, para iniciados, o GitHub seja difícil de compreender. No entanto, se seguires todos os passos da forma que iremos apresentar, não terás qualquer problema.
 
-Caso não sejas iniciado e prefiras um tutorial mais simplificado, passa para o fim da página (clicando aqui).
+**Caso não sejas iniciado e prefiras um tutorial mais simplificado, passa para o fim da página *([clicando aqui](#--fazer-upload-de-legendas-vers%C3%A3o-simplificada))*.**
 
 #### - Ganhar acesso ao repositório
 
