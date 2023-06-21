@@ -6,13 +6,14 @@ Se estás interessado em ajudar o projeto ***Streamamos*** a evoluir, estás no 
 
 ***(Para já, só estamos a aceitar a adição de legendas de filmes).***
 
-## Como começar a ajudar
+
+## 🟢 Como começar a ajudar
 
 Para começares a ajudar a adicionar legendas terás de seguir alguns simples passos. É possível que, para iniciados, o GitHub seja difícil de compreender. No entanto, se seguires todos os passos da forma que iremos apresentar, não terás qualquer problema.
 
-**Caso não sejas iniciado e prefiras um tutorial mais simplificado, passa para o fim da página *([clicando aqui](#--fazer-upload-de-legendas-vers%C3%A3o-simplificada))*.**
+**Caso não sejas iniciado e prefiras um tutorial mais simplificado, passa para o fim da página 🔸 *([clicando aqui](#--fazer-upload-de-legendas-vers%C3%A3o-simplificada))*.**
 
-#### - Ganhar acesso ao repositório
+#### - 🔷 Ganhar acesso ao repositório
 
  1. Cria uma conta GitHub (clicando no botão *[Sign Up](https://github.com/signup)* e seguindo os passos comuns de um registo);
  2. Volta a este repositório e clica na aba *[Issues](https://github.com/streamamos/streamamos-subs/issues)* para pedires acesso;
@@ -26,7 +27,7 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 3.  Agora já tens acesso ao repositório *Streamamos-Subs*.
 
 
-#### - Fazer upload de legendas
+#### - 🔶 Fazer upload de legendas
 
 1. Certifica-te que o filme que escolheste fazer upload de legenda não tem a opção *Portuguese* no player;
 
@@ -62,25 +63,34 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 
 9. Pronto, a legenda já está dentro do repositório e aparecerá no player do filme em alguns segundos sob o nome de "Português *". (Caso a legenda não esteja a aparecer, atualiza a página do filme e clica na *engrenagem (settings)* do player, depois *Subtitle* e clica na opção *Off*. Em princípio, a legenda que deste upload irá aparecer.)
 
-#### - Fazer upload de legendas (versão simplificada)
+#### - 🔸 Fazer upload de legendas (versão simplificada)
 
 - Legenda em *Portuguese* não disponível no player? Se sim... ; 
+
 - Entra em *[OpenSubtitles](https://www.opensubtitles.com/pt-PT)* e procura pelo filme que escolheste;
+
 - Escolhe uma legenda em Português de Portugal (seguido pelos botões *DOWNLOAD* e *DESCARREGAR SRT*) ;
+
 - Abre a legenda transferida com o Bloco de Notas e clica em *Ficheiro* > *Guardar Como...*, alterando / confirmando que a codificação está em *UTF-8*;
+
 - Altera o nome da legenda para o ID do filme. Podes encontrar o ID nos últimos números do URL da página do filme no *Streamamos* (exemplo: *".../watch?id=movie/watch-fast-and-furious-10-8846"*, copia o número *8846*);
+
 - Volta ao repositório do *[Streamamos-Subs](https://github.com/streamamos/streamamos-subs)* e clica na pasta *[Legendas-Subs](https://github.com/streamamos/streamamos-subs/tree/main/Legendas-Filmes)*;
+
 - No lado direito, clica no botão *Add File* e de seguida escolhe *[Upload Files](https://github.com/streamamos/streamamos-subs/upload/main/Legendas-Filmes)*;
 - Arrasta a legenda para dentro dessa página ou clica em *Choose Your Files* e procura pela mesma;
+
 - Na secção *Commit Changes*, dentro da caixa de texto *Add files via upload* escreve o título e ano do filme que escolheste (Podes copiar o título e o ano disponíveis nas informações do filme no *Streamamos*. Usa o título em inglês);
+
 - Clica no botão *Commit Changes*;
+
 - Pronto, a legenda já está dentro do repositório e aparecerá no player do filme em alguns segundos sob o nome de "Português *".
 
-Se escolheste ajudar (nem que seja apenas uma vez), agradecemos do fundo do coração. Se pretenderes continuar a fazer upload de legendas é só repetires os passos de *[Fazer upload de legendas](#--fazer-upload-de-legendas)* ou *[Fazer upload de legendas (versão simplificada)](#--fazer-upload-de-legendas-vers%C3%A3o-simplificada)*.
+⚪ Se escolheste ajudar (nem que seja apenas uma vez), agradecemos do fundo do coração. Se pretenderes continuar a fazer upload de legendas é só repetires os passos de 🔶 *[Fazer upload de legendas](#--fazer-upload-de-legendas)* ou 🔸 *[Fazer upload de legendas (versão simplificada)](#--fazer-upload-de-legendas-vers%C3%A3o-simplificada)*.
 
-Por fim, pedimos apenas que não alteres nem elimines legendas que foram colocadas por nós ou outros contribuintes. Caso encontres um erro ou uma legenda duplicada, cria um *[New Issue](https://github.com/streamamos/streamamos-subs/issues/new)* dentro da aba *[Issues](https://github.com/streamamos/streamamos-subs/issues)*, colocando na caixa de texto *Title* apenas "Erro - (escreve o erro em questão)".
+🚩 Por fim, pedimos apenas que não alteres nem elimines legendas que foram colocadas por nós ou outros contribuintes. Caso encontres um erro ou uma legenda duplicada, cria um *[New Issue](https://github.com/streamamos/streamamos-subs/issues/new)* dentro da aba *[Issues](https://github.com/streamamos/streamamos-subs/issues)*, colocando na caixa de texto *Title* apenas "Erro - (escreve o erro em questão)".
 
-Obrigado!
+Obrigado! ❤️
 Equipa *Streamamos*.
 
 ```
