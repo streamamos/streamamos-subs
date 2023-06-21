@@ -5,21 +5,16 @@
 Se estás interessado em ajudar o projeto ***Streamamos*** a evoluir, estás no sítio certo. Como já referimos no Aviso do *Streamamos*, as fontes que usamos no site são de terceiros e por isso não temos controlo das legendas presentes nos filmes e séries. Por isso, criamos este repositório para adicionar as legendas em português que se encontram em falta. 
 
 ***(Para já, só estamos a aceitar a adição de legendas de filmes).***
-
 ```
 ```
-
-
 ## 🟢 Como começar a ajudar
 
 Para começares a ajudar a adicionar legendas terás de seguir alguns simples passos. É possível que, para iniciados, o GitHub seja difícil de compreender. No entanto, se seguires todos os passos da forma que iremos apresentar, não terás qualquer problema.
 
 **Caso não sejas iniciado e prefiras um tutorial mais simplificado, passa para o fim da página 🔸 *([clicando aqui](#---fazer-upload-de-legendas-vers%C3%A3o-simplificada))*.**
-
 ```
 ```
-
-#### - 🔷 Ganhar acesso ao repositório
+### - 🔷 Ganhar acesso ao repositório
 
  1. Cria uma conta GitHub (clicando no botão *[Sign Up](https://github.com/signup)* e seguindo os passos comuns de um registo);
  2. Volta a este repositório e clica na aba *[Issues](https://github.com/streamamos/streamamos-subs/issues)* para pedires acesso;
@@ -31,11 +26,9 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 	 2.3. Irás receber um e-mail nosso / notificação na tua conta GitHub para aceitar ou rejeitar o nosso pedido para colaborar. Quando abrires o link do e-mail / notificação, clica em *Accept Invitation*;
 
 3.  Agora já tens acesso ao repositório *Streamamos-Subs*.
-
 ```
 ```
-
-#### - 🔶 Fazer upload de legendas
+### - 🔶 Fazer upload de legendas
 
 1. Certifica-te que o filme que escolheste fazer upload de legenda não tem a opção *Portuguese* no player;
 
@@ -70,11 +63,9 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 	8.4. De seguida, clica no botão *Commit Changes*;
 
 9. Pronto, a legenda já está dentro do repositório e aparecerá no player do filme em alguns segundos sob o nome de "Português *". (Caso a legenda não esteja a aparecer, atualiza a página do filme e clica na *engrenagem (settings)* do player, depois *Subtitle* e clica na opção *Off*. Em princípio, a legenda que deste upload irá aparecer.)
-
 ```
 ``` 
-
-#### - 🔸 Fazer upload de legendas (versão simplificada)
+### - 🔸 Fazer upload de legendas (versão simplificada)
 
 - Legenda em *Portuguese* não disponível no player? Se sim... ; 
 
@@ -106,6 +97,5 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 
 Obrigado! ❤️
 Equipa *Streamamos*.
-
 ```
 ```
