@@ -11,7 +11,6 @@ Se estás interessado em ajudar o projeto ***Streamamos*** a evoluir, estás no 
 
 Para começares a ajudar a adicionar legendas terás de seguir alguns simples passos. É possível que, para iniciados, o GitHub seja difícil de compreender. No entanto, se seguires todos os passos da forma que iremos apresentar, não terás qualquer problema.
 
-**Caso não sejas iniciado e prefiras um tutorial mais simplificado, passa para o fim da página 🔸 *([clicando aqui](#---fazer-upload-de-legendas-vers%C3%A3o-simplificada))*.**
 ```
 ```
 ### - 🔷 Ganhar acesso ao repositório
@@ -29,6 +28,7 @@ Para começares a ajudar a adicionar legendas terás de seguir alguns simples pa
 ```
 ```
 ### - 🔶 Fazer upload de legendas
+**Caso não sejas iniciado e prefiras um tutorial mais simplificado, passa para o fim da página 🔸 *([clicando aqui](#---fazer-upload-de-legendas-vers%C3%A3o-simplificada))*.**
 
 1. Certifica-te que o filme que escolheste fazer upload de legenda não tem a opção *Portuguese* no player;
 
